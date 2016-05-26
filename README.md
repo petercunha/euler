@@ -1,2 +1,2 @@
 # Project Euler
-Solutions for projecteuler.net, written in Go
+Solutions for the [projecteuler.net](https://projecteuler.net) problems, written in Go
